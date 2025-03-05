@@ -1,0 +1,3 @@
+UPDATE pjnui0m2y4sivov."WPrecive"
+SET "Push__Name" = {{ Nameinput.text }}
+WHERE id = {{ READ_wprecive.data. }};

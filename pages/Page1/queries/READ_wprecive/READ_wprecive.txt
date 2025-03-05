@@ -1,0 +1,1 @@
+SELECT * FROM pjnui0m2y4sivov."WPrecive" LIMIT 100;
